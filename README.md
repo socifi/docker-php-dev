@@ -8,8 +8,8 @@
 
 [![](https://images.microbadger.com/badges/image/shimmi/php-dev.svg)](https://microbadger.com/images/shimmi/php-dev "Get your own image badge on microbadger.com")
 [![](https://images.microbadger.com/badges/version/shimmi/php-dev.svg)](https://microbadger.com/images/shimmi/php-dev "Get your own version badge on microbadger.com")
-[![GitHub issues](https://img.shields.io/github/issues/shimmi/docker-php-dev.svg "GitHub issues")](https://github.com/docker-php-dev)
-[![GitHub stars](https://img.shields.io/github/stars/shimmi/docker-php-dev.svg "GitHub stars")](https://github.com/docker-php-dev)
+[![GitHub issues](https://img.shields.io/github/issues/shimmi/docker-php-dev.svg "GitHub issues")](https://github.com/shimmi/docker-php-dev)
+[![GitHub stars](https://img.shields.io/github/stars/shimmi/docker-php-dev.svg "GitHub stars")](https://github.com/shimmi/docker-php-dev)
 
 Based on the [shimmi/php](https://store.docker.com/community/images/shimmi/php "shimmi/php") image.
 This image adds some tools that are necessary for development with PHP.
