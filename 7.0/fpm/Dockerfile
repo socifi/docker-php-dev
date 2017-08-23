@@ -1,6 +1,6 @@
-FROM shimmi/php:7.0-fpm
+FROM socifi/php:7.0-fpm
 
-MAINTAINER Jiří Šimeček <jirka@simecek.org>
+LABEL maintainer "code@socifi.com" description "SOCIFI Development Team"
 
 RUN pecl install xdebug \
     && apt-get install -y libxslt-dev \
